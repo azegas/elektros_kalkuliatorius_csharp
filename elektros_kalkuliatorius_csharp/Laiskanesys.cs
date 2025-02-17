@@ -8,7 +8,7 @@ namespace elektros_kalkuliatorius_csharp
 {
     class Laiskanesys
     {
-        public void WriteGateredInfo(double watts, double kilowatts, double hoursPerDay)
+        public void WriteGatheredInfo(double watts, double kilowatts, double hoursPerDay)
         {
             Console.WriteLine("\n---------------------------------------");
             Console.WriteLine($"Your device ryja {watts:F2} watts, its power consumption is {kilowatts:F2} kWh and it runs {hoursPerDay} hours per day.");
