@@ -1,6 +1,6 @@
 ﻿namespace elektros_kalkuliatorius_csharp
 {
-    class Calculator
+    public class Calculator
     {
         private const double CostPerKWh = 0.22; // Use const for values that don't change.  Make it private.
 
