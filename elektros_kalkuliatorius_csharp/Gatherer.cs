@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace elektros_kalkuliatorius_csharp
+﻿namespace elektros_kalkuliatorius_csharp
 {
     class Gatherer
     {
-
 
         public double GetWatts()
         {
